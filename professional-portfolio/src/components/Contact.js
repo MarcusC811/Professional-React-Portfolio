@@ -38,7 +38,7 @@ export default (function Contact () {
                     <div className="col-md-3 mb-3 mb-md-0">
                         <div className="card py-4 h-100">
                             <div className="card-body text-center">
-                            <i class="fa-brands fa-github"></i>
+                            <i className="fa-brands fa-github"></i>
                                 <h4 className="text-uppercase m-0">GitHub</h4>
                                 <hr className="my-4 mx-auto" />
                                 <a className="small text-black-50" href="https://github.com/MarcusC811">MarcusC811</a>

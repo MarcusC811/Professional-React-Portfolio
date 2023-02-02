@@ -6,9 +6,9 @@ export default (function About () {
             <div className="container px-4 px-lg-5">
                 <div className="row gx-4 gx-lg-5 justify-content-center">
                     <div className="col-lg-8">
-                        <h2 className="text-black mb-4">Who am I?</h2>
+                        <h2 className="text-black mb-4">Let me introduce myself</h2>
                         <p className="text-black-50">
-                            I am
+                            As I child, my mind has always wondered how everything in the world works, who designs them and how you make it better. I set out on my developing journey and I was taken by a storm, in a good way. I finally got to be the one who builds software, makes things "work", and is able to make things better for the world. I have spend the last 7 years of my career working big box retail, climbing the ladder to become a executive manager, developing teams and pushing the limits to achieve success year over year has set me up for path I had no idea was possible. I thoroughly with HTML, CSS, JavaScript, NodeJS, MongoDB, React and I am actively learning more. I am looking to join a team that will embrace a young developer and allow me to take my software development career and the team around me to heights never seen! 
                         </p>
                     </div>
                 </div>

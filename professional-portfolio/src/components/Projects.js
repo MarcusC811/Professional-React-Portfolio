@@ -28,13 +28,13 @@ export default (function Projects () {
                     </div>
                 </div>
                 <div className="row gx-0 justify-content-center">
-                    <div className="col-lg-6"><img className="img-fluid" src="./Aniverse.jpg" alt="..." /></div>
+                    <div className="col-lg-6"><img className="img-fluid" src="../public/coming-soon.jpg" alt="coming soon" /></div>
                     <div className="col-lg-6 order-lg-first">
                         <div className="bg-black text-center h-100 project">
                             <div className="d-flex h-100">
                                 <div className="project-text w-100 my-auto text-center text-lg-right">
-                                    <h4 className="text-white">Mountains</h4>
-                                    <p className="mb-0 text-white-50">Another example of a project with its respective description. These sections work well responsively as well, try this theme on a small screen!</p>
+                                    <h4 className="text-white"><a href="https://marcusc811.github.io/Professional-React-Portfolio/"> Coming Soon </a></h4>
+                                    <p className="mb-0 text-white-50">Coming soon ...</p>
                                     <hr className="d-none d-lg-block mb-0 me-0" />
                                 </div>
                             </div>
