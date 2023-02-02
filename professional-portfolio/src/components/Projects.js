@@ -5,7 +5,7 @@ export default (function Projects () {
         <section className="projects-section bg-light" id="projects">
             <div className="container px-4 px-lg-5">
                 <div className="row gx-0 mb-4 mb-lg-5 align-items-center">
-                    <div className="col-xl-8 col-lg-8"><img className="img-fluid mb-3 mb-lg-0" src="./Gig Genie.jpg" alt="..." /></div>
+                    <div className="col-xl-8 col-lg-8"><img className="img-fluid mb-3 mb-lg-0" src="./Gig_Genie.jpg" alt="gig genie" /></div>
                     <div className="col-xl-4 col-lg-4">
                         <div className="featured-text text-center text-lg-left">
                             <h4 className='text-white-50'> <a href='https://marcusc811.github.io/Gig-Genie/'> Gig Genie </a></h4>
@@ -14,7 +14,7 @@ export default (function Projects () {
                     </div>
                 </div>
                 <div className="row gx-0 mb-5 mb-lg-0 justify-content-center">
-                    <div className="col-lg-6"><img className="img-fluid" src="./Aniverse.jpg" alt="..." /></div>
+                    <div className="col-lg-6"><img className="img-fluid" src="./Aniverse.jpg" alt="Aniverse" /></div>
                     <div className="col-lg-6">
                         <div className="bg-black text-center h-100 project">
                             <div className="d-flex h-100">
