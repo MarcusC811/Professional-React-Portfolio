@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Professional-React-Portfolio/static/css/main.a2971dac.css",
+    "main.js": "/Professional-React-Portfolio/static/js/main.8dac2224.js",
+    "static/js/787.10c1ab8b.chunk.js": "/Professional-React-Portfolio/static/js/787.10c1ab8b.chunk.js",
+    "static/media/jumbotron2.webp": "/Professional-React-Portfolio/static/media/jumbotron2.64390db314646462c3c7.webp",
+    "index.html": "/Professional-React-Portfolio/index.html",
+    "main.a2971dac.css.map": "/Professional-React-Portfolio/static/css/main.a2971dac.css.map",
+    "main.8dac2224.js.map": "/Professional-React-Portfolio/static/js/main.8dac2224.js.map",
+    "787.10c1ab8b.chunk.js.map": "/Professional-React-Portfolio/static/js/787.10c1ab8b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2971dac.css",
+    "static/js/main.8dac2224.js"
+  ]
+}
