@@ -12,7 +12,7 @@ export default (function About () {
                         </p>
                     </div>
                 </div>
-                <img className="img-fluid headshot" src="./marcus.jpg" alt="head shot of Marcus" />
+                <img className="headshot" src="./marcus.jpg" alt="head shot of Marcus" />
             </div>
         </section>
     )
