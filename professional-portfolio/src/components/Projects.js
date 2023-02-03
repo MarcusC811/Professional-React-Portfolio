@@ -14,7 +14,7 @@ export default (function Projects () {
                     </div>
                 </div>
                 <div className="row gx-0 mb-5 mb-lg-0 justify-content-center">
-                    <div className="col-lg-6"><img className="img-fluid" src="./Aniverse.jpg" alt="Aniverse" /></div>
+                    <div className="col-lg-6"><img className="img-fluid" src="./Reaniverse.jpg" alt="Aniverse" /></div>
                     <div className="col-lg-6">
                         <div className="bg-black text-center h-100 project">
                             <div className="d-flex h-100">

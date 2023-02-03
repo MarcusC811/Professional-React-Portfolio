@@ -41,6 +41,10 @@ h1 {
   color: white;
 }
 
+.headshot{
+  height: 500px;
+}
+
 .job-title{
   color: rgb(203 203 203 / 50%)!important;
 }
